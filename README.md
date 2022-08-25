@@ -30,7 +30,6 @@ I can adapt myself to different environments.
     <tr >
         <td valign="top" width="16%">
         <h2> Front End </h2>
-        <hr>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%00000000&color=black">
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black">
@@ -44,7 +43,6 @@ I can adapt myself to different environments.
         </td>
         <td valign="top" width="16%">
         <h2> Back End </h2>
-        <hr>
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=black">
@@ -56,7 +54,6 @@ I can adapt myself to different environments.
         </td>
         <td valign="top" width="16%">
         <h2> Database </h2>
-        <hr>
             <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&color=black">
@@ -64,7 +61,6 @@ I can adapt myself to different environments.
         </td>
         <td valign="top" width="16%">
             <h2> DevOps </h2>
-            <hr>
             <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&color=black">
           <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&color=black">
           <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white&color=black">
@@ -74,7 +70,6 @@ I can adapt myself to different environments.
         </td>
         <td valign="top" width="16%">
         <h2> Design </h2>
-        <hr>
             <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665&color=black">
             <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&&color=black">
@@ -85,7 +80,6 @@ I can adapt myself to different environments.
         </td>
         <td valign="top" width="16%">
         <h2> Other </h2>
-        <hr>
             <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=black">
             <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&color=black">
