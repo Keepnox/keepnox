@@ -4,11 +4,11 @@
 **A passionate Full Stack Developer from Turkey**
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=fd4390&color=black&)](https://twitter.com/OlumOSikiKes)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=fd4390&color=black&)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=fd4390&color=black&)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=fd4390&color=black&)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=fd4390&color=black&)
-![!My Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&&logoColor=fd4390&color=black&)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=fd4390&color=black&)](https://www.linkedin.com/in/keepnox/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=fd4390&color=black&)](https://www.instagram.com/olumosesikes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=fd4390&color=black&)](kimbukaan@gmail.com)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=fd4390&color=black&)](https://dev.to/keepnox)
+[![!My Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&&logoColor=fd4390&color=black&)](https://keepnox.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=keepnox&left_color=black&right_color=purple)
 <hr>
 <br>
