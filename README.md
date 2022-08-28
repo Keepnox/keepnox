@@ -3,7 +3,7 @@
 
 **A passionate Full Stack Developer from Turkey**
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=fd4390&color=black&)https://twitter.com/OlumOSikiKes]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=fd4390&color=black&)](https://twitter.com/OlumOSikiKes)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=fd4390&color=black&)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=fd4390&color=black&)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=fd4390&color=black&)
